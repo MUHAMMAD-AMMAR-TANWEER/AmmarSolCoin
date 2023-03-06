@@ -1,0 +1,9 @@
+PublicKey: EHXMau5dRtZBiRSHdkVvr5X8zsznyTDyRcpdoTksBJwJ
+The token mint account has been created at address 7u7jEdkNWTwnxdTvqShDs2BpjCcXJpEFZXeaj8z2Pk8B
+The Mint : https://explorer.solana.com/address/7u7jEdkNWTwnxdTvqShDs2BpjCcXJpEFZXeaj8z2Pk8B?cluster=devnet
+Token Account: https://explorer.solana.com/address/BYprfdMGcg4GbWenCucAjrt4sEwX11bWgwM84vXP5DrH?cluster=devnet
+Address is BYprfdMGcg4GbWenCucAjrt4sEwX11bWgwM84vXP5DrH
+Mint Token Transaction: https://explorer.solana.com/tx/2sVvyun4TFHDcq8cqmbYVHb8jsGaWR7NNGRoY8J4LQUDgnPuJi5UsrpjmUXLojm74c3bYVeRoATku5cJb1MwovVi?cluster=devnet
+Token Account: https://explorer.solana.com/address/BLvi6EXg6x4ym9ubsGRokvwgyg3HShuDrZxBrBwFBFNN?cluster=devnet
+Transfer Token https://explorer.solana.com/tx/3TNdA3HqhoJiwhfDeuZCpNgBQ5xrv85Wz53nHHiPBpFfxNuzMh3WsuumEePKsuQ335iyfq4WYMvNvTdnwnDE9tJm?cluster=devnet
+Finished successfully
